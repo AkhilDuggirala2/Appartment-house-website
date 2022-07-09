@@ -1,0 +1,46 @@
+nav {
+  position: relative;
+  display: flex;
+  height: 100%;
+  width: 100%;
+}
+
+.nav-items ul {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 400px;
+}
+
+.nav-items ul li {
+  display: flex;
+  margin: 0 10px;
+  justify-content: center;
+  align-items: center;
+}
+
+.nav-items ul li a {
+  display: flex;
+  text-align: center;
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: 500;
+  border-radius: 60px;
+  padding: 10px 15px;
+  color: white;
+  cursor: pointer;
+}
+
+.nav-items ul li a:hover {
+  background-color: orangered;
+}
+
+.nav-items ul li a.active {
+  background: orangered;
+}
+
+.navitems-icon {
+  margin: 0 10px;
+  font-size: 20px;
+  font-weight: medium;
+}
