@@ -50,14 +50,6 @@ const Services = () => {
               <BiCheck className="service-list-icon" />
               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
             </li>
-            <li>
-              <BiCheck className="service-list-icon" />
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-            </li>
-            <li>
-              <BiCheck className="service-list-icon" />
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-            </li>
           </ul>
         </div>
         {/* END OF AUTOCAD DESIGNER */}
@@ -102,26 +94,6 @@ const Services = () => {
               <BiCheck className="service-list-icon" />
               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
             </li>
-            <li>
-              <BiCheck className="service-list-icon" />
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-            </li>
-            <li>
-              <BiCheck className="service-list-icon" />
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-            </li>
-            <li>
-              <BiCheck className="service-list-icon" />
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-            </li>
-            <li>
-              <BiCheck className="service-list-icon" />
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-            </li>
-            <li>
-              <BiCheck className="service-list-icon" />
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-            </li>
           </ul>
         </div>
         {/* END OF GRAPHICS DESIGNER */}
@@ -130,14 +102,6 @@ const Services = () => {
             <h3>FLAT DRAWING DESIGNER</h3>
           </div>
           <ul className="service-list">
-            <li>
-              <BiCheck className="service-list-icon" />
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-            </li>
-            <li>
-              <BiCheck className="service-list-icon" />
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-            </li>
             <li>
               <BiCheck className="service-list-icon" />
               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
